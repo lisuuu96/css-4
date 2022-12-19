@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/css/style.css">
+</head>
+<body>
+  <div><div id="jeden" class="jeden"></div></div>   
+
+  <div><div id="dwa" class="dwa"></div></div>
+
+  <div><div id="trzy" class="trzy"></div></div>
+  <div><div id="cztery" class="cztery"></div></div>
+    
+</body>
+</html>
+
+
+body{background-color: #f5f5dd;}
+div#jeden.jeden{height: 200px;width: 200px;background-color: black;}
+
+div#dwa{height: 200px;width: 200px;background-color: rgba(0, 0, 0, 0.601);}
+
+div#trzy{height: 200px;width: 200px;background-color: rgba(0, 0, 0, 0.453);}
+
+div#cztery{height: 200px;width: 200px;background-color: rgba(0, 0, 0, 0.142);}
+
